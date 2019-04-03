@@ -1,4 +1,4 @@
-=======Agenda de Douglas Oliveira RA:537592018=============
+=======  Agenda de Douglas Oliveira =============
 1º Excutar Sricpt localizado na pasta agenda("database_script");
 
 2º Colocar a pasta portifolio no htdocs do Xampp ou Wampp;
