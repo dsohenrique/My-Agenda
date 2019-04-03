@@ -1,0 +1,15 @@
+CREATE DATABASE portifolio;
+
+USE portifolio;
+
+CREATE TABLE agenda(
+   codigo int primary key auto_increment,
+   data date,
+   tarefa varchar(50)
+);
+
+INSERT INTO agenda(data, tarefa) value ('2019-04-04', 'Devolver o livro na Biblioteca');
+INSERT INTO agenda(data, tarefa) value ('2019-04-06', 'Prova de Matemática');
+INSERT INTO agenda(data, tarefa) value ('2019-04-21', 'Revisão de Nota');
+
+
